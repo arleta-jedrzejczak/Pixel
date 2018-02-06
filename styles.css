@@ -9,6 +9,13 @@ body {
     text-align: center;
 }
 
+.grid {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
 h1 {
     font-size: 4rem;
     margin: 0.2em;
